@@ -5,7 +5,7 @@ This project focuses on performing **web application penetration testing** using
 It aims to explore and exploit common OWASP Top 10 vulnerabilities, including **SQL Injection**, **XSS**, **Command Injection**, **Brute Force**, and **CSRF**.
 
  **Full Report:**  
-View PDF Report -:: https://github.com/saijoshi03/-WEB-APPLICATION-PENETRATION-TESTING--Infotact-Solutions-P2/blob/main/DVWA%20Installation%20using%20TryHackMe1.pdf
+View PDF Report -:: https://github.com/saijoshi03/-WEB-APPLICATION-PENETRATION-TESTING--Infotact-Solutions-P2/blob/main/DVWA%20Installation%20using%20TryHackMe.pdf
 
 ---
 
